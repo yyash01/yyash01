@@ -20,6 +20,6 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/yash jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash jain" height="20" width="20" /></a>
-<a href="https://fb.com/yash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yash" height="20" width="20" /></a>
-<a href="https://instagram.com/yyash01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yyash01" height="20" width="20" /></a>
+<a href="https://fb.com/yash jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yash jain" height="20" width="20" /></a>
+<a href="https://instagram.com/yyash_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yyash_01" height="20" width="20" /></a>
 </p>
