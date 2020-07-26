@@ -16,7 +16,13 @@
 
 - ⚡ Fun fact **...Remember to Code here no stocking...!**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yyash01&show_icons=true" alt="yyash01" /> </p>
+<p align="left"><img src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" alt="c" width="20" height="20"/> 
+  <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cplusplus" width="20" height="20"/> 
+  <img src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png" alt="css3" width="20" height="20"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="20" height="20"/> 
+  <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="20" height="20"/> 
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="20" height="20"/></p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yyash01&show_icons=true" alt="yyash01" /> </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/yash jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash jain" height="20" width="20" /></a>
