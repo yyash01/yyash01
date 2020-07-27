@@ -6,7 +6,9 @@
 
 - 👯 I’m looking to collaborate on **Technocolabs**
 
-- 🤔 I’m looking for help with [SigmaHacks2.0](https://devpost.com/software/sigma-face-help)
+- 🤔 I’m looking for help with [SigmaHacks2.0](http://sigmahacks.org/)
+
+- :white_check_mark: Recent Achievements : [Runner up in SigmaHacks2.0](https://devpost.com/software/sigma-face-help)
 
 - 👨‍💻 All of my projects are available at [https://github.com/yyash01](https://github.com/yyash01)
 
