@@ -2,21 +2,21 @@
 <h3 align="center">A passionate Frontend-developer from India In Making.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyash01" alt="yyash01" /> </p>
 
-- 🔭 I’m currently working on [Snake-Game in Javascript.](www.google.com)
+- 🔭 I’m currently working as a [Intern at Technocolabs](https://www.linkedin.com/company/technocolabs/)
 
-- 👯 I’m looking to collaborate on **Technocolabs**
+- 👯 I’m focusing learning the  **Bootstrap** :white_check_mark: Beginner na..!
 
 - 🤔 I’m looking for help with [SigmaHacks2.0](http://sigmahacks.org/)
 
 - :white_check_mark: Recent Achievements : [Runner up in SigmaHacks2.0](https://devpost.com/Mr_Cyber?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-- 👨‍💻 All of my projects are available at [https://github.com/yyash01](https://github.com/yyash01)
+- 👨‍💻 All of my projects are available at [Mr.Robot - Github](https://github.com/yyash01)
 
 - 💬 Ask me about **Web-devlopment Basics**
 
-- 📫 How to reach me **https://www.linkedin.com/in/yash-jain-74551b193/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/)
 
-- ⚡ Fun fact **...Remember to Code here no stocking...!**
+- ⚡ Fun fact **...Remember for suggestion  are welcome ...!**
 
 <p align="left"><img src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" alt="c" width="20" height="20"/> 
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cplusplus" width="20" height="20"/> 
