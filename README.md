@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with [SigmaHacks2.0](http://sigmahacks.org/)
 
-- :white_check_mark: Recent Achievements : [Runner up in SigmaHacks2.0](https://devpost.com/software/sigma-face-help)
+- :white_check_mark: Recent Achievements : [Runner up in SigmaHacks2.0](https://devpost.com/Mr_Cyber?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 - 👨‍💻 All of my projects are available at [https://github.com/yyash01](https://github.com/yyash01)
 
