@@ -16,7 +16,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/)
 
-- ⚡ Fun fact **...Remember for suggestion  are welcome ...!**
+- ⚡ Fact **... suggestion  are welcome ...!**
 
 <p align="center">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img
@@ -24,6 +24,7 @@
         src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img
         src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img
         src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+   <img src="https://github-readme-stats.vercel.app/api?username=yyash01&show_icons=true" alt="yyash01" /> </p>
 </p>
 
 <p align="center">
