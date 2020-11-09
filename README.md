@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Frontend-developer from India In Making.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyash01" alt="yyash01" /> </p>
 
-- 🔭 I’m currently working as a [Intern at Technocolabs](https://www.linkedin.com/company/technocolabs/)
+- 🔭 Exprience as a [Intern at Technocolabs](https://www.linkedin.com/company/technocolabs/)
 
-- 👯 I’m focusing learning the  **Bootstrap** :white_check_mark: Beginner na..!
+- 👯 I’m learning the  **Bootstrap** :white_check_mark:
 
-- 🤔 I’m looking for help with [SigmaHacks2.0](http://sigmahacks.org/)
+- 🤔 I’m looking for help in Competitive Programming
 
 - :white_check_mark: Recent Achievements : [Runner up in SigmaHacks2.0](https://devpost.com/Mr_Cyber?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/)
 
-- ⚡ Fact **... suggestion  are welcome ...!**
+- ⚡ **... suggestion  are welcome ...!**
 
 <p align="center">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img
