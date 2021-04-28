@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
-<h3 align="center">A passionate Frontend-developer from India In Making.</h3>
+<h3 align="center">A passionate Frontend-developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyash01" alt="yyash01" /> </p>
 
 - 🔭 Exprience as a [Intern at Technocolabs](https://www.linkedin.com/company/technocolabs/)
 
-- 👯 I’m learning the  **Bootstrap** :white_check_mark:
+- 👯 I’m learning the  **React.js** :white_check_mark:
 
 - 🤔 I’m looking for help in Competitive Programming
 
-- :white_check_mark: Recent Achievements : [Runner up in SigmaHacks2.0](https://devpost.com/Mr_Cyber?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- ✌  Recent Achievements : [Runner up in SigmaHacks2.0](https://devpost.com/Mr_Cyber?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-- 👨‍💻 All of my projects are available at [Mr.Robot - Github](https://github.com/yyash01)
+- 💻 All of my projects are available at [Mr.Robot - Github](https://github.com/yyash01)
 
-- 💬 Ask me about **Web-devlopment Basics**
+- 💬 Ask me about **Web-devlopment**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/)
 
-- ⚡ **... suggestion  are welcome ...!**
 
 <p align="center">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img
@@ -28,7 +27,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/yash jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash jain" height="20" width="20" /></a>
+<a href="linkedin.com/in/yash-jain-74551b193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash jain" height="20" width="20" /></a>
 <a href="https://fb.com/yash jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yash jain" height="20" width="20" /></a>
 <a href="https://instagram.com/yyash_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yyash_01" height="20" width="20" /></a>
 </p>
