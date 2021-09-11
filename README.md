@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help in Competitive Programming
 
-- ✌  Recent Achievements : [Runner up in SigmaHacks2.0](https://devpost.com/Mr_Cyber?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- ✌  Recent Achievements : [Qualified for Facebook Hackercup 2021 Round 1](https://drive.google.com/file/d/1Yy07uPtVb-UcJJQmAWjW-HPZTiDTG9mD/view?usp=sharing)
 
 - 💻 All of my projects are available at [Mr.Robot - Github](https://github.com/yyash01)
 
