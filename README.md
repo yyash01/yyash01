@@ -12,7 +12,7 @@
 
 - 💻 All of my projects are available at [Mr.Robot - Github](https://github.com/yyash01)
 
-- 💬 Ask me about **Web-devlopment , Data-Structure and Algorithms**
+- 💬 Looking for **SDE Internships for Summer 2022**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/)
 - Leetcode profile : [yash_20](https://leetcode.com/yash_20/)
