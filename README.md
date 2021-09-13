@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
-<h3 align="center">A passionate Frontend-developer.</h3>
+<h3 align="center">A passionate Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyash01" alt="yyash01" /> </p>
 
 - 🔭 Exprience as a [Intern at Technocolabs](https://www.linkedin.com/company/technocolabs/)
 
-- 👯 I’m learning the  **React.js** :white_check_mark:
+- 👯 I’m currently building a self-project using **React and Nodejs**
 
-- 🤔 I’m looking for help in Competitive Programming
+- 🤔 I’m looking for help in Competitive Programming and Deep-learning
 
 - ✌  Recent Achievements : [Qualified for Facebook Hackercup 2021 Round 1](https://drive.google.com/file/d/1Yy07uPtVb-UcJJQmAWjW-HPZTiDTG9mD/view?usp=sharing)
 
 - 💻 All of my projects are available at [Mr.Robot - Github](https://github.com/yyash01)
 
-- 💬 Ask me about **Web-devlopment**
+- 💬 Ask me about **Web-devlopment , Data-Structure and Algorithms**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/)
+- Leetcode profile : [yash_20](https://leetcode.com/yash_20/)
 
 
 <p align="center">
