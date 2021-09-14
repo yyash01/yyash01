@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help in Competitive Programming and Deep-learning
 
-- ✌  Recent Achievements : [Qualified for Facebook Hackercup 2021 Round 1](https://drive.google.com/file/d/1Yy07uPtVb-UcJJQmAWjW-HPZTiDTG9mD/view?usp=sharing)
+- ✌  Recent Achievements : [Qualified for Facebook Hackercup 2021 Round 2](https://drive.google.com/file/d/1zY5haYyYMKSLHDuLauX3Qf-UGwuAcC4e/view?usp=sharing)
 
 - 💻 All of my projects are available at [Mr.Robot - Github](https://github.com/yyash01)
 
