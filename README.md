@@ -14,7 +14,7 @@
 
 - 💬 Looking for **SDE Internships for Summer 2022**
 
-- 📫 How to reach me <a href="mailto:yjain3.436@gmail.com">Mail</a> , [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/).
+- 📫 How to reach me <a href="mailto:yjain3.436@gmail.com">Mail</a> , [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/) ,[Twitter](https://twitter.com/JainYash13k)
 - Leetcode profile : [yash_20](https://leetcode.com/yash_20/)
 
 
