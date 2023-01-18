@@ -2,17 +2,16 @@
 <h3 align="center">A passionate Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyash01" alt="yyash01" /> </p>
 
-- 🔭 Exprience as a [Intern at Technocolabs](https://www.linkedin.com/company/technocolabs/)
+- 🔭 Working as a [Associate Product Engineer Intern at DemandFarm](https://www.demandfarm.com/)<br>
+- 🔭 Experience as a [FrontendIntern at Technocolabs](https://www.linkedin.com/company/technocolabs/)
 
-- 👯 I’m currently building a self-project using **React and Nodejs**
-
-- 🤔 I’m looking for help in Competitive Programming and Deep-learning
+- 👯 I’m currently building a self-project using **Nodejs and Google Authentications using OAuth2.0**
 
 - ✌  Recent Achievements : [Qualified for Facebook Hackercup 2021 Round 2](https://drive.google.com/file/d/1zY5haYyYMKSLHDuLauX3Qf-UGwuAcC4e/view?usp=sharing)
 
 - 💻 All of my projects are available at [Mr.Robot - Github](https://github.com/yyash01)
 
-- 💬 Looking for **SDE Internships for Summer 2022**
+- 💬 Looking for **Full time Role as a Software Devloper**
 
 - 📫 How to reach me <a href="mailto:yjain3.436@gmail.com">Mail</a> , [LinkedIn](https://www.linkedin.com/in/yash-jain-74551b193/) ,[Twitter](https://twitter.com/JainYash13k)
 
