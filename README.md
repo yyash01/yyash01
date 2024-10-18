@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/eb1a4bbd-9133-4a79-986c-5088e0a7c210" style="height: 395px; width: 100%; object-fit: contain;" />
+
 <h1 align="center">Hey 👋, I'm Yash Jain</h1>
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyash01" alt="yyash01" /> </p>
